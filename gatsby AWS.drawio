@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-10-28T19:53:30.562Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="VLn17rNB-gbathoOafw5" version="12.1.8" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-28T19:59:36.526Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="yKtRPptlr4AMd3Ja6Ivq" version="12.1.8" type="github" pages="1">
   <diagram id="x5b_3-YbYWvAeVyZhtYZ" name="Page-1">
-    <mxGraphModel dx="1329" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1329" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -95,7 +95,7 @@
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VhqsVnI0zUZjItoEZSw--20" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.certificate;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="VhqsVnI0zUZjItoEZSw--20" value="&lt;font color=&quot;#000000&quot;&gt;&amp;lt;&amp;lt;ACM Cert&amp;gt;&amp;gt;&lt;/font&gt;" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.certificate;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="502" y="215" width="50" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="VhqsVnI0zUZjItoEZSw--27" value="&amp;lt;&amp;lt;S3 Bucket&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Logs Bucket&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Storage__Content_Delivery_Amazon_S3_Bucket-128.png" vertex="1" parent="1">
@@ -142,10 +142,10 @@
         </mxCell>
         <mxCell id="VhqsVnI0zUZjItoEZSw--51" value="Route" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=11;fontColor=#000000;" vertex="1" connectable="0" parent="VhqsVnI0zUZjItoEZSw--42">
           <mxGeometry x="0.0056" y="-10" relative="1" as="geometry">
-            <mxPoint x="10" y="-10" as="offset"/>
+            <mxPoint x="9.5" y="12" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VhqsVnI0zUZjItoEZSw--41" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.route_53;fillColor=#F58536;gradientColor=none;fontSize=19;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="VhqsVnI0zUZjItoEZSw--41" value="&amp;lt;&amp;lt;Route 53&amp;gt;&amp;gt;&lt;br&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.route_53;fillColor=#F58536;gradientColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="630" y="157.5" width="70.5" height="85.5" as="geometry"/>
         </mxCell>
       </root>
